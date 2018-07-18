@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title>Ice and hot days</dc:title>
+<dc:creator>Saleem Shublaq ( https://orcid.org/0000-0002-1876-7694)</dc:creator>
+
+<dc:subject>Correlation of ice and hot days in Vorarlberg</dc:subject>
+<dc:description>Automated tool that invastigates and correlation between ice and hot days of Vorarlberg</dc:description>
+<dc:date>18.07.2018</dc:date>
+<dc:type>DataGeneration</dc:type>
+<dc:format>python</dc:format>
+<dc:source>Medium number of hot days Vorarlberg</dc:source>
+<dc:source>Medium number of ice days Vorarlberg</dc:source>
+<dc:language>Detush</dc:language>
+<dc:rights>Free access</dc:rights>
+
+</metadata>
